@@ -33,7 +33,7 @@ public class LibrarySystem {
         public static void main(String[] args){
            
             
-            userStudent[0] = new Student("Slamet Hariyadi", "202310370311221", "Teknik","Informatika");
+            userStudent[0] = new Student("Ahmad Sultan Amanda Putra", "202310370311239", "Teknik","Informatika");
 
             bookList[0] = new Book("388c-e681-9152", "Pemograman Java OOP", "Anan", "Novel", 10,5);
             
